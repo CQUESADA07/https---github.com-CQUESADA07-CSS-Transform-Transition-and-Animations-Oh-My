@@ -1,0 +1,9 @@
+main {
+transform: rotate(-5deg);
+background-color: rgba(0, 208, 149, 0.649);
+padding-left: 220px;
+padding-top: 100px;
+width: 400px;
+height: 500px;
+font-family: monospace;
+font-size: larger;
